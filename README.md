@@ -20,12 +20,13 @@ Want to unleash the power of CareerCraft on your own computer? (Optional: If ope
 
 # Easy Setup:
 
-Prerequisites: Ensure you have Python 3.x and a Google Gemini API key (available through Google Cloud Platform).
-Clone the Repository: Use git clone to download CareerCraft's code.
-Create a Virtual Environment: Isolate your project's dependencies for a smooth experience.
-Install Packages: Install the necessary libraries using pip install.
-Set Up Environment Variables: Create a .env file with your Google Gemini API key.
-Run the Application: Launch CareerCraft using streamlit run app.py.
+Prerequisites: 
+1) Ensure you have Python 3.x and a Google Gemini API key (available through Google Cloud Platform).
+2) Clone the Repository: Use git clone to download CareerCraft's code.
+3) Create a Virtual Environment: Isolate your project's dependencies for a smooth experience.
+4) Install Packages: Install the necessary libraries using pip install.
+5) Set Up Environment Variables: Create a .env file with your Google Gemini API key.
+6) Run the Application: Launch CareerCraft using streamlit run app.py.
 Voila! CareerCraft opens in your browser, ready to analyze your resume and job descriptions.
 
 (Optional: Contribution Information - If open-source)
