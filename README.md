@@ -38,4 +38,3 @@ Special thanks to SmartBridge for their support and guidance during the developm
 Let CareerCraft be your secret weapon in the job search journey!
 
 
-# Deployed App : https://careercraft-oz6rgmwtmahfqcpyfxkxzc.streamlit.app/
