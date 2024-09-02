@@ -36,3 +36,6 @@ Help us shape CareerCraft's future! Contributions are welcome. If you encounter 
 Special thanks to SmartBridge for their support and guidance during the development of this project.
 
 Let CareerCraft be your secret weapon in the job search journey!
+
+
+# Deployed App : https://careercraft-oz6rgmwtmahfqcpyfxkxzc.streamlit.app/
